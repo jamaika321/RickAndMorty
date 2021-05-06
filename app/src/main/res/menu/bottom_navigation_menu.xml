@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_character"
+        android:title="Heroes"/>
+    <item
+        android:id="@+id/navigation_episode"
+        android:title="Episode"/>
+    <item
+        android:id="@+id/navigation_location"
+        android:title="Locations"/>
+</menu>
